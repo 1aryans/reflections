@@ -1,0 +1,5 @@
+1.What happens when you initialize a repository? Why do you need to do it?
+When we initialize a repository ,all files which are contained in it will be of same directory and different directory have different repository.
+
+2.How is the staging area different from the working directory and the repository? What value do you think it offers?
+Staging area is virtual place where we can transfer files one by one from working directory and than make it all as a commit in repository.The value  it offers is to make commit easily .
