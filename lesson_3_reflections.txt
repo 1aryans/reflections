@@ -4,3 +4,5 @@ We can use remote repository when we allow some changes by others and maintain s
 2.Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 We have to always pull changes manually because the changes done in any either git or github is not automatically reflected in other repository ,so if we want to keep records locally then we have to pull changes .
 
+3.Describe the differences between forks, clones, and branches. When would you use one instead of another?
+Forks are somelike clones but in this copy is done within github i.e. we can copy others repository in github using forks.On the other hand in clones we do coping either in local repositories or from remote to local.Branches are the joins between commits or we can say each branch shows different types of process and their commits.All have their different functions in different areas and as per our comfort we use them .
