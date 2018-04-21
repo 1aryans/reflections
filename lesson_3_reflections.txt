@@ -9,3 +9,6 @@ Forks are somelike clones but in this copy is done within github i.e. we can cop
 
 4.What is the benefit of having a copy of the last known state of the remote stored locally?
 The benefit is that we see what changes had occurred so that any conflict can be cured.
+
+5.When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+The part where we have to make changes in a separate branch is good when we have a whole different types of changes but all of same main branch , so then it feels easier to understand and operate on different branch rather than master .But when we have direct changes and no different paths in it than master branch is more beneficial than any other .
